@@ -1,2 +1,1 @@
-# blank
-blank repo with only a readme
+# My First C++ pogram
