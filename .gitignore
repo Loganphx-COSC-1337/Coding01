@@ -1,5 +1,8 @@
+# Ignore Everything
 *
 */
+
+# Except files with the extensions .cpp, .h, .md or .gitignore.
 !*.cpp
 !*.h
 !*.md
